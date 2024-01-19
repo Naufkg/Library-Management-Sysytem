@@ -1,6 +1,6 @@
 # Library Management System
 
-[View PDF with Screenshots Of the project done in MySql Workbench](https://docs.google.com/document/d/1ToY-4Afb3QT28_c_SzCeJgrdheKW9lQjSGZzLBg5Gug/edit?usp=sharing)
+[View the project in PDF](https://docs.google.com/document/d/1ToY-4Afb3QT28_c_SzCeJgrdheKW9lQjSGZzLBg5Gug/edit?usp=sharing)
 
 
 ### Introduction
