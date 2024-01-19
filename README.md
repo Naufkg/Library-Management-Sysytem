@@ -1,4 +1,6 @@
 # Library Management System
+[View PDF with Screenshots](https://docs.google.com/document/d/1ToY-4Afb3QT28_c_SzCeJgrdheKW9lQjSGZzLBg5Gug/edit?usp=sharing)
+
 
 ### Introduction
 In this article, we will build Library Management System using MYSQL. We will build the database, which includes tables.
